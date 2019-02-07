@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="810a63d2-0cf8-4273-91ee-ab6055951c1c" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/Results/2019-02-07_10_58/Config.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Results/2019-02-07_10_58/main.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Data/25 experiment/formList-25.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Data/25 experiment/formList-25.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Results/2019-02-07_10_58/Config.js" beforeDir="false" afterPath="$PROJECT_DIR$/Results/2019-02-07_10_58/Config.js" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -54,7 +51,7 @@
         <entry file="file://$PROJECT_DIR$/Results/2019-02-07_10_58/Config.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="300">
-              <caret line="20" column="29" selection-start-line="20" selection-start-column="29" selection-end-line="20" selection-end-column="29" />
+              <caret line="20" column="63" selection-start-line="20" selection-start-column="63" selection-end-line="20" selection-end-column="63" />
             </state>
           </provider>
         </entry>
@@ -238,10 +235,10 @@
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.38255978" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.38255978" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Python Console" order="7" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.32911393" />
+      <window_info anchor="bottom" id="Terminal" order="7" visible="true" weight="0.32911393" />
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1952862" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="right" id="Database" order="3" weight="0.3297568" />
@@ -424,7 +421,7 @@
     <entry file="file://$PROJECT_DIR$/Results/2019-02-07_10_58/Config.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="300">
-          <caret line="20" column="29" selection-start-line="20" selection-start-column="29" selection-end-line="20" selection-end-column="29" />
+          <caret line="20" column="63" selection-start-line="20" selection-start-column="63" selection-end-line="20" selection-end-column="63" />
         </state>
       </provider>
     </entry>

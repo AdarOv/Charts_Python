@@ -18,4 +18,4 @@ Configs.percentage_winners = 0.99;
 
 module.exports  = Configs;
 
-//minimum 170. novelty cross all generation
+//minimum 170. novelty cross all generation . crossover by rows
